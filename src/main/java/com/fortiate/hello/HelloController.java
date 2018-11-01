@@ -9,7 +9,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	public String sayHi(){
 		
-		return "Hi with docker";
+		return "Hi with docker again checking";
 	
 	}
 }
